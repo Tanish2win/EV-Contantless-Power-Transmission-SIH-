@@ -199,4 +199,3 @@ As EV adoption grows worldwide, inductive charging will likely move from being a
 ---
 ---
 
-Would you like me to also create a **flow diagram or schematic illustration** of the inductive EV charging system to complement this expanded introduct
